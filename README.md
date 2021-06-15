@@ -2,6 +2,7 @@
 Etude de cas Arcane
 
 pip install virtualenv
+virtualenv venv
 
 Dans le shell du projet
 
